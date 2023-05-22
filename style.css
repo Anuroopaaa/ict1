@@ -1,0 +1,22 @@
+#bio{
+    text-align: center;
+    padding-left: 50px;
+    margin-top: 50px;
+    color: rgb(137, 140, 172);
+    background-color: black;
+}
+.outerbox{
+    padding: 60px;
+    border-style: solid;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.classA{
+    text-align: center;
+}
+.classB{
+    border-style: dotted;
+}
+li{
+    list-style-type: none;
+}
